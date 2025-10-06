@@ -11,7 +11,7 @@
 ║     ██║  ██║██║  ██║██║  ██║██║  ██║██████╔╝██║  ██║              ║
 ║     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝              ║
 ║                                                                      ║
-║     Yuto Harada @ Shizuoka University                               ║
+║     Yuya Harada @ Shizuoka University                               ║
 ║     Kano Laboratory | AI & NLP Research                             ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
