@@ -1,0 +1,49 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .skill-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #333; }
+    .title-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 20px; font-weight: bold; fill: #1E90FF; }
+    .grid-line { stroke: #ddd; stroke-width: 1; fill: none; }
+    .skill-area { fill: rgba(30, 144, 255, 0.3); stroke: #1E90FF; stroke-width: 2; }
+  </style>
+
+  <!-- Title -->
+  <text x="300" y="30" text-anchor="middle" class="title-text">Skills Radar Chart</text>
+
+  <!-- Grid circles -->
+  <circle cx="300" cy="300" r="200" class="grid-line"/>
+  <circle cx="300" cy="300" r="160" class="grid-line"/>
+  <circle cx="300" cy="300" r="120" class="grid-line"/>
+  <circle cx="300" cy="300" r="80" class="grid-line"/>
+  <circle cx="300" cy="300" r="40" class="grid-line"/>
+
+  <!-- Grid lines (7 skills = 7 axes) -->
+  <!-- Python (0°) -->
+  <line x1="300" y1="300" x2="300" y2="100" class="grid-line"/>
+  <!-- Java (51.43°) -->
+  <line x1="300" y1="300" x2="456" y2="178" class="grid-line"/>
+  <!-- Go (102.86°) -->
+  <line x1="300" y1="300" x2="459" y2="387" class="grid-line"/>
+  <!-- HTML/CSS (154.29°) -->
+  <line x1="300" y1="300" x2="214" y2="466" class="grid-line"/>
+  <!-- NLP (205.71°) -->
+  <line x1="300" y1="300" x2="78" y2="378" class="grid-line"/>
+  <!-- AI/ML (257.14°) -->
+  <line x1="300" y1="300" x2="115" y2="178" class="grid-line"/>
+  <!-- Game Theory (308.57°) -->
+  <line x1="300" y1="300" x2="238" y2="126" class="grid-line"/>
+
+  <!-- Skill polygon (values: Python=80%, Java=70%, Go=60%, HTML=70%, NLP=80%, AI=75%, Game=70%) -->
+  <polygon points="300,140 436,198 442,347 233,438 110,330 140,198 262,154" class="skill-area"/>
+
+  <!-- Labels -->
+  <text x="300" y="90" text-anchor="middle" class="skill-text">🐍 Python (80%)</text>
+  <text x="475" y="175" text-anchor="start" class="skill-text">☕ Java (70%)</text>
+  <text x="478" y="395" text-anchor="start" class="skill-text">🔵 Go (60%)</text>
+  <text x="200" y="485" text-anchor="middle" class="skill-text">🌐 HTML/CSS (70%)</text>
+  <text x="50" y="385" text-anchor="end" class="skill-text">🤖 NLP (80%)</text>
+  <text x="95" y="175" text-anchor="end" class="skill-text">🧠 AI/ML (75%)</text>
+  <text x="220" y="115" text-anchor="middle" class="skill-text">🐺 Game Theory (70%)</text>
+
+  <!-- Center point -->
+  <circle cx="300" cy="300" r="5" fill="#1E90FF"/>
+</svg>
