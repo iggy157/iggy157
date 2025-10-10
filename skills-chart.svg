@@ -16,33 +16,30 @@
   <circle cx="300" cy="300" r="80" class="grid-line"/>
   <circle cx="300" cy="300" r="40" class="grid-line"/>
 
-  <!-- Grid lines (7 skills = 7 axes) -->
+  <!-- Grid lines (6 skills = 6 axes) -->
   <!-- Python (0°) -->
   <line x1="300" y1="300" x2="300" y2="100" class="grid-line"/>
-  <!-- Java (51.43°) -->
-  <line x1="300" y1="300" x2="456" y2="178" class="grid-line"/>
-  <!-- Go (102.86°) -->
-  <line x1="300" y1="300" x2="459" y2="387" class="grid-line"/>
-  <!-- HTML/CSS (154.29°) -->
-  <line x1="300" y1="300" x2="214" y2="466" class="grid-line"/>
-  <!-- NLP (205.71°) -->
-  <line x1="300" y1="300" x2="78" y2="378" class="grid-line"/>
-  <!-- AI/ML (257.14°) -->
-  <line x1="300" y1="300" x2="115" y2="178" class="grid-line"/>
-  <!-- Game Theory (308.57°) -->
-  <line x1="300" y1="300" x2="238" y2="126" class="grid-line"/>
+  <!-- Java (60°) -->
+  <line x1="300" y1="300" x2="473" y2="200" class="grid-line"/>
+  <!-- Go (120°) -->
+  <line x1="300" y1="300" x2="473" y2="400" class="grid-line"/>
+  <!-- HTML/CSS (180°) -->
+  <line x1="300" y1="300" x2="300" y2="500" class="grid-line"/>
+  <!-- NLP (240°) -->
+  <line x1="300" y1="300" x2="127" y2="400" class="grid-line"/>
+  <!-- AI/ML (300°) -->
+  <line x1="300" y1="300" x2="127" y2="200" class="grid-line"/>
 
-  <!-- Skill polygon (values: Python=80%, Java=70%, Go=60%, HTML=70%, NLP=80%, AI=75%, Game=70%) -->
-  <polygon points="300,140 436,198 442,347 233,438 110,330 140,198 262,154" class="skill-area"/>
+  <!-- Skill polygon (values: Python=80%, Java=70%, Go=60%, HTML=70%, NLP=80%, AI=75%) -->
+  <polygon points="300,140 439,220 420,360 300,440 163,360 150,220" class="skill-area"/>
 
   <!-- Labels -->
   <text x="300" y="90" text-anchor="middle" class="skill-text">🐍 Python (80%)</text>
-  <text x="475" y="175" text-anchor="start" class="skill-text">☕ Java (70%)</text>
-  <text x="478" y="395" text-anchor="start" class="skill-text">🔵 Go (60%)</text>
-  <text x="200" y="485" text-anchor="middle" class="skill-text">🌐 HTML/CSS (70%)</text>
-  <text x="50" y="385" text-anchor="end" class="skill-text">🤖 NLP (80%)</text>
-  <text x="95" y="175" text-anchor="end" class="skill-text">🧠 AI/ML (75%)</text>
-  <text x="220" y="115" text-anchor="middle" class="skill-text">🐺 Game Theory (70%)</text>
+  <text x="492" y="205" text-anchor="start" class="skill-text">☕ Java (70%)</text>
+  <text x="492" y="405" text-anchor="start" class="skill-text">🔵 Go (60%)</text>
+  <text x="300" y="525" text-anchor="middle" class="skill-text">🌐 HTML/CSS (70%)</text>
+  <text x="108" y="405" text-anchor="end" class="skill-text">🤖 NLP (80%)</text>
+  <text x="108" y="205" text-anchor="end" class="skill-text">🧠 AI/ML (75%)</text>
 
   <!-- Center point -->
   <circle cx="300" cy="300" r="5" fill="#1E90FF"/>
