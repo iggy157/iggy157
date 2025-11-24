@@ -33,9 +33,10 @@
 
 ### 👤 自己紹介
 
-静岡大学 **狩野研究室** 所属
+原田悠矢（はらだゆうや）
+静岡大学 情報学部 **狩野研究室** 所属
 <!-- ACADEMIC_YEAR_START -->
-**学年**: B3（2025年3月時点）
+**学年**: B3（2025年11月時点）
 <!-- ACADEMIC_YEAR_END -->
 
 ### 🎯 研究関心
@@ -73,9 +74,10 @@
 
 ### 👤 About Me
 
+Yuya Harada
 **Kano Laboratory**, Shizuoka University
 <!-- ACADEMIC_YEAR_START -->
-**Year**: 3rd Year Undergraduate (as of March 2025)
+**Year**: 3rd Year Undergraduate (as of Novenber 2025)
 <!-- ACADEMIC_YEAR_END -->
 
 ### 🎯 Research Interests
@@ -113,6 +115,7 @@
 
 ### 👤 关于我
 
+原田悠矢
 **静冈大学 狩野实验室**
 <!-- ACADEMIC_YEAR_START -->
 **年级**: 本科三年级（截至2025年3月）
