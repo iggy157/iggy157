@@ -28,9 +28,8 @@
 
 原田悠矢（はらだゆうや）
 静岡大学 情報学部 **狩野研究室** 所属
-<!-- ACADEMIC_YEAR_START -->
 **学年**: B3（2026年1月時点）
-<!-- ACADEMIC_YEAR_END -->
+MY PORTFOLIO: https://iggy157.github.io/
 
 ### 🎯 研究関心
 
@@ -69,9 +68,8 @@
 
 Yuya Harada
 **Kano Laboratory**, Shizuoka University
-<!-- ACADEMIC_YEAR_START -->
 **Year**: 3rd Year Undergraduate (as of January 2026)
-<!-- ACADEMIC_YEAR_END -->
+MY PORTFOLIO: https://iggy157.github.io/
 
 ### 🎯 Research Interests
 
