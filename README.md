@@ -4,13 +4,6 @@
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║     ██╗  ██╗ █████╗ ██████╗  █████╗ ██████╗  █████╗               ║
-║     ██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗              ║
-║     ███████║███████║██████╔╝███████║██║  ██║███████║              ║
-║     ██╔══██║██╔══██║██╔══██╗██╔══██║██║  ██║██╔══██║              ║
-║     ██║  ██║██║  ██║██║  ██║██║  ██║██████╔╝██║  ██║              ║
-║     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝              ║
-║                                                                      ║
 ║     Yuya Harada @ Shizuoka University                               ║
 ║     Kano Laboratory | AI & NLP Research                             ║
 ║                                                                      ║
@@ -36,7 +29,7 @@
 原田悠矢（はらだゆうや）
 静岡大学 情報学部 **狩野研究室** 所属
 <!-- ACADEMIC_YEAR_START -->
-**学年**: B3（2025年11月時点）
+**学年**: B3（2026年1月時点）
 <!-- ACADEMIC_YEAR_END -->
 
 ### 🎯 研究関心
@@ -77,7 +70,7 @@
 Yuya Harada
 **Kano Laboratory**, Shizuoka University
 <!-- ACADEMIC_YEAR_START -->
-**Year**: 3rd Year Undergraduate (as of Novenber 2025)
+**Year**: 3rd Year Undergraduate (as of January 2026)
 <!-- ACADEMIC_YEAR_END -->
 
 ### 🎯 Research Interests
@@ -104,47 +97,6 @@ Yuya Harada
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### 📫 Contact
-
-- **Email**: [yharada@kanolab.net](mailto:yharada@kanolab.net)
-- **Portfolio**: [https://v0-portfolio-creation-zeta-three.vercel.app/](https://v0-portfolio-creation-zeta-three.vercel.app/)
-
-</details>
-
-<details>
-<summary><b>🇨🇳 中文</b></summary>
-
-### 👤 关于我
-
-原田悠矢
-**静冈大学 狩野实验室**
-<!-- ACADEMIC_YEAR_START -->
-**年级**: 本科三年级（截至2025年3月）
-<!-- ACADEMIC_YEAR_END -->
-
-### 🎯 研究兴趣
-
-- **自然语言处理（NLP）**
-- **狼人智能**
-- **人工智能（AI）**
-- **BDI（信念-愿望-意图）模型** - 人类决策行为建模
-
-### 🚀 项目
-
-#### 🐺 狼人智能项目
-- **组织狼人智能大赛**
-- **开发狼人AI代理**:
-  - 使用BDI模型生成有意图发言的AI代理
-  - 使用BDI模型进行意图推理的AI代理
-  - 反映基于性格的认知扭曲的AI代理
-
-### 💻 技术栈
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-### 📫 联系方式
 
 - **Email**: [yharada@kanolab.net](mailto:yharada@kanolab.net)
 - **Portfolio**: [https://v0-portfolio-creation-zeta-three.vercel.app/](https://v0-portfolio-creation-zeta-three.vercel.app/)
