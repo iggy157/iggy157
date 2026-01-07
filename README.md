@@ -12,7 +12,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+NLP+%7C+Werewolf+Intelligence+%7C+BDI+Model;Building+intelligent+agents+with+human-like+reasoning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+NLP+%7C+AIWolf+%7C+BDI+Model;Building+intelligent+agents+with+human-like+reasoning" alt="Typing SVG" />
 </p>
 
 </div>
